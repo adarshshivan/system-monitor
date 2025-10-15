@@ -67,6 +67,7 @@ or (if executable):
 You only have your terminal open — no resource details are displayed.
 
 ### ▶️ After Running
+![After Output Screenshot](./images/System-monitor-output.png)
 
 ---
 
