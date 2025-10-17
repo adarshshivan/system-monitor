@@ -26,8 +26,8 @@ This script is especially useful for system administrators, students, and Linux 
 - 🐧 Linux / WSL (Ubuntu)
 - 💻 Bash Scripting
 - 🧮 AWK & PS Commands
--🧾 GitHub (for version control)
--✍️ VS Code / Nano (for editing scripts)
+- 🧾 GitHub (for version control)
+- ✍️ VS Code / Nano (for editing scripts)
 
 ---
 
