@@ -1,8 +1,7 @@
 # 🖥️ Linux System Resource Monitor
 
 ### 👨‍💻 Author
-**Adarsh Shivan**
-GitHub: [https://github.com/adarshshivan](https://github.com/adarshshivan)
+**Adarsh Shivan**<br>GitHub: [https://github.com/adarshshivan](https://github.com/adarshshivan)
 
 ---
 
